@@ -1,4 +1,4 @@
-# Global Immunological Course
+# Global Immunological Course -Day-1
 
 ## Day -2: 
 ### Session 2: Carla Rothlin
