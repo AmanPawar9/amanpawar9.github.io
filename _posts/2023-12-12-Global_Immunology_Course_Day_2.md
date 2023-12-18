@@ -1,7 +1,6 @@
-# Global Immunological Course -Day-1
+# Global Immunological Course -Day-2
 
-## Day -2: 
-### Session 2: Carla Rothlin
+### Session 2: Prof. Carla Rothlin, Yale School of Medicine
 
 ### Innate Immunity:
 
@@ -22,7 +21,8 @@
 - **Sensors: NOD I/II:**
   - Recognize peptidoglycan.
 
-  ![Pattern Recognition Receptors of various cells \nsource: https://doi.org/10.1093/annonc/mdx179](../media/pattern_recognition_receptors_of_cells.jpg)
+  ![Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179](..media/pattern_recognition_receptors_of_cells.jpg)
+  *Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179*
 
 #### Recognition of Damage
 - **Inflammasomes:**
@@ -35,7 +35,8 @@
   - Dendritic Cells (Mature) → T-cells (activation).
   - Inflammatory Response → Cytokines and chemokines.
 
-  ![Damage associated molecular patterns \nsource: https://doi.org/10.3389/fpls.2019.00646](../media/damage_associated_receptors.jpg)
+  ![Damage associated molecular patterns source: https://doi.org/10.3389/fpls.2019.00646](..media/damage_associated_receptors.jpg)
+  *Damage associated molecular patterns source: https://doi.org/10.3389/fpls.2019.00646*
 
 ### Cytokines
 - Type I Interferons:
@@ -56,7 +57,9 @@
 #### Danger Model: Poly Matzoinger
 - Focuses on harm-causing entities regardless of origin but lacks explanation for NK cell behavior.
 
-![History of Immune Models \nsource: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself](../media/history_of_immune_models.png)
+![History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself](..media/history_of_immune_models.png)
+*History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself*
+
 #### Antigenic Discontinuity Theory by Thosma Pradeu and Eruc Viver (2013)
 - Suggests NK cell reaction to cellular changes.
 
