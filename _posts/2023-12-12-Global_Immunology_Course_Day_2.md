@@ -20,9 +20,11 @@
 
 - **Sensors: NOD I/II:**
   - Recognize peptidoglycan.
-  <img src="media/pattern_recognition_receptors_of_cells.jpg" alt="Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179">
+
+*Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179*
+<img src="./amanpawar9.github.io/_posts/media/pattern_recognition_receptors_of_cells.jpg" alt="Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179">
+  <!-- _posts\media\pattern_recognition_receptors_of_cells.jpg -->
   <!-- ![Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179](media/pattern_recognition_receptors_of_cells.jpg) -->
-  <!-- *Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179* -->
 
 #### Recognition of Damage
 - **Inflammasomes:**
