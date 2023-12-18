@@ -32,7 +32,7 @@
 - In-depth discussions on Type I Interferons and Dendritic Cells.
 - Antigen processing, Major Histocompatibility Complex (MHC) molecules, and antigen presentation.
 
-### **16-17 Dec 2023** - Break (weekend)
+### **16-17 Dec 2023** - Break (weekend) - Bounus : Workshop on Flow Cytometery
 
 ### **18 Dec 2023** - Antigen presentation continued, TCR and T cell activation
 - Continuing the exploration of antigen presentation mechanisms.

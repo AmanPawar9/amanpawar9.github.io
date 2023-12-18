@@ -22,6 +22,8 @@
 - **Sensors: NOD I/II:**
   - Recognize peptidoglycan.
 
+  ![Pattern Recognition Receptors of various cells \nsource: https://doi.org/10.1093/annonc/mdx179](../media/pattern_recognition_receptors_of_cells.jpg)
+
 #### Recognition of Damage
 - **Inflammasomes:**
   - NLRP3 sensor detects damage, leading to assembly with ASC (an adaptor) and CASPASE-1 (enzyme).
@@ -33,6 +35,8 @@
   - Dendritic Cells (Mature) → T-cells (activation).
   - Inflammatory Response → Cytokines and chemokines.
 
+  ![Damage associated molecular patterns \nsource: https://doi.org/10.3389/fpls.2019.00646](../media/damage_associated_receptors.jpg)
+
 ### Cytokines
 - Type I Interferons:
   - Discovered 70 years ago for interfering with viral infections.
@@ -42,7 +46,7 @@
 # Group Discussion: mRNA Vaccine & Nobel Prize in Medicine 2023
 - Exploring mRNA functionality, vaccine mechanisms, and addressing challenges.
 
-### Session 3: Dr. Deepeman Ganguli, IISER
+### Session 3: Dr. Dipyaman Ganguly, IISER
 #### Me or not Me: Towards a Standard Model for Cellular Immunology
 
 - Standard model evolution: Self vs. non-self, central tolerance, exceptions.
@@ -52,6 +56,7 @@
 #### Danger Model: Poly Matzoinger
 - Focuses on harm-causing entities regardless of origin but lacks explanation for NK cell behavior.
 
+![History of Immune Models \nsource: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself](../media/history_of_immune_models.png)
 #### Antigenic Discontinuity Theory by Thosma Pradeu and Eruc Viver (2013)
 - Suggests NK cell reaction to cellular changes.
 
