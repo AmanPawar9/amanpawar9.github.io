@@ -2,6 +2,7 @@
 ## Day -5
 
 ### Session 1: Dr. Elina Zuniga
+
 #### Introduction:
 Dr. Elina Zuniga, a prominent Argentinian immunologist and Molecular Biology Professor at the University of California, San Diego, focuses on understanding viral chronic infections and immune evasion mechanisms. Her contributions include:
 
@@ -32,7 +33,8 @@ Dr. Elina Zuniga, a prominent Argentinian immunologist and Molecular Biology Pro
 **vii) Role of Bats as Viral Reservoirs:**
 - Bat biology, immune tolerance, diverse viral exposure, flight mobility, social behavior, and habitat overlap contribute to their role in carrying and transmitting viruses.
 
-### Session 2: Deeptiman
+### Session 2: Prof Deeptiman, IISc
+
 #### Major Histocompatibility Complex (MHC):
 - Two main classes: Class I and Class II molecules.
 - MHC plays a crucial role in T cell activation and thymic T cell secretion.

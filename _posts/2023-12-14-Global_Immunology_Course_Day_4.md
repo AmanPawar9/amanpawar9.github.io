@@ -2,7 +2,8 @@
 
 ## Day -4:
 
-### Session 1: Siddharth Jhunjunwala - Blood Cells
+### Session 1: Prof Siddharth Jhunjunwala, Department of Bioengineering, IISc
+### Blood Cells
 
 - **Cellular Components:**
   - RBC: Carry hemoglobin

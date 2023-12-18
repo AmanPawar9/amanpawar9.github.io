@@ -22,7 +22,7 @@
   - Recognize peptidoglycan.
 
 *Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179*
-<img src="./media/pattern_recognition_receptors_of_cells.jpg" alt="Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179">
+<img src="/assets/pattern_recognition_receptors_of_cells.jpg" alt="Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179">
   <!-- _posts\media\pattern_recognition_receptors_of_cells.jpg -->
   <!-- ![Pattern Recognition Receptors of various cells source: https://doi.org/10.1093/annonc/mdx179](media/pattern_recognition_receptors_of_cells.jpg) -->
 
@@ -37,7 +37,7 @@
   - Dendritic Cells (Mature) → T-cells (activation).
   - Inflammatory Response → Cytokines and chemokines.
 
-  ![Damage associated molecular patterns source: https://doi.org/10.3389/fpls.2019.00646](media/damage_associated_receptors.jpg)
+  ![Damage associated molecular patterns source: https://doi.org/10.3389/fpls.2019.00646](/assets/damage_associated_receptors.jpg)
   *Damage associated molecular patterns source: https://doi.org/10.3389/fpls.2019.00646*
 
 ### Cytokines
@@ -59,7 +59,7 @@
 #### Danger Model: Poly Matzoinger
 - Focuses on harm-causing entities regardless of origin but lacks explanation for NK cell behavior.
 
-![History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself](media/history_of_immune_models.png)
+![History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself](/assets/history_of_immune_models.png)
 *History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself*
 
 #### Antigenic Discontinuity Theory by Thosma Pradeu and Eruc Viver (2013)
