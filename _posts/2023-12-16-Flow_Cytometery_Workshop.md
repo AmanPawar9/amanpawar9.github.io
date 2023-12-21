@@ -1,4 +1,4 @@
-# Flow Cytometry Workshop Day-1
+# Flow Cytometry Workshop:
 - Courtesy: Vinod Kumar Dorai (PhD student, Immunology Lab, IISc)
 
 When studying specific cells in flow or being transported:

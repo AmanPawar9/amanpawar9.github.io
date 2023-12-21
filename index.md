@@ -1,4 +1,5 @@
-# Global Immunological Course hosted by IISc (December 2023)
+# My Lecture Notes on Global Immunological Course hosted by IISc (December 2023)
+- *NOTE: These are my lecture notes from the global Immunological Course 2023 hosted by IISc, The following notes are not verified by the respective experts. I have tried to verify the content at my end, still if you find any mistake or addition in the notes please feel free to edit it out and send me the changes on https://github.com/AmanPawar9/amanpawar9.github.io*
 
 ---
 
