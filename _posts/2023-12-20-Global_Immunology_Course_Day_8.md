@@ -1,4 +1,4 @@
-# Global Immunology Course - Day-8
+# Global Immunology Course -Day-8
 
 ## Session 1: Prof. Anjali
 

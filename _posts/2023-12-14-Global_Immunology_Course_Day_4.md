@@ -1,7 +1,5 @@
 # Global Immunological Course -Day-4
 
-## Day -4:
-
 ### Session 1: Prof Siddharth Jhunjunwala, Department of Bioengineering, IISc
 ### Blood Cells
 

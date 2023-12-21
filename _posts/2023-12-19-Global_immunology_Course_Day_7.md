@@ -1,4 +1,4 @@
-# Global Immunology Course - Day-7
+# Global Immunology Course -Day-7
 
 ## Session-1: Prof. Carla Rothlin, Yale School of Medicine
 

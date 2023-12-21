@@ -1,4 +1,4 @@
-# Global Immunology Course Day-9
+# Global Immunology Course -Day-9
 
 ## Exploring Cancer Immunology: A Paradigm Shift in Cancer Treatment
 

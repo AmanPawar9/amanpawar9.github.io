@@ -1,4 +1,4 @@
-# Global Immunology Course - Day-6
+# Global Immunology Course -Day-6
 
 ## Session 2: Prof. Carla Rothlin
 

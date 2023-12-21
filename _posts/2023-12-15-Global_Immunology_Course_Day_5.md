@@ -1,5 +1,4 @@
-# Global Immunological Course
-## Day -5
+# Global Immunological Course -Day-5
 
 ### Session 1: Dr. Elina Zuniga
 

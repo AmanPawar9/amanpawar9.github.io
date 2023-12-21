@@ -57,7 +57,7 @@
 #### Danger Model: Poly Matzoinger
 - Focuses on harm-causing entities regardless of origin but lacks explanation for NK cell behavior.
 
-![Image](assets/history_of_immune_models.png)
+![history_of_immune_models](assets/history_of_immune_models.png)
 *History of Immune Models source: Matzinger’s “danger model” vs. the classical theory of self vs. self-nonself*
 
 #### Antigenic Discontinuity Theory by Thosma Pradeu and Eruc Viver (2013)
