@@ -31,7 +31,7 @@ Max Krummel is a Professor of Immunology at the University of California, San Fr
 
 
 ## How Drosophila can be used to study neuroinflammatory disorder
-- Prof. Shweta Charakborthy, IISc
+- Prof. Sveta Chakarabarti, IISc
 
 ### Neuroinflammation:
 - Many classical receptors are expressed by neurons.
